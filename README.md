@@ -81,8 +81,8 @@
 
 <div align="center">
   <!-- ЗАМЕНИТЕ YOUR_USERNAME НА ВАШ НИКНЕЙМ НИЖЕ (В двух местах) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=calm&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=calm&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Optimist2608&show_icons=true&theme=calm&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Optimist2608&layout=compact&theme=calm&hide_border=true" height="150" />
 </div>
 
 <br/>
