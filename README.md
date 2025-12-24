@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Гифка (Матрица) -->
+  
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I4cHhoeWRtYzhocTF2d2dseW42c25memRjZjJsaGg3NjI0ZWxuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yvoDVJQsTfHi/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" />
 
   # 👋 Привет, я Макар Лебедев
   
   ### 💻 Frontend-разработчик
   
-  <!-- Анимированная строка -->
+ 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;Building+Modern+Websites;Code+is+Art" alt="Typing SVG" />
   </a>
@@ -20,7 +20,7 @@
 
 Я начинающий разработчик, сейчас фокусируюсь на создании удобных и красивых интерфейсов.
 
-- 🔭 Студент **ITtop Academy**.
+- 🔭 Прохожу курсы от **ITtop Academy**.
 - 🌱 Мой основной стек: **HTML5, CSS3, JavaScript**.
 - 🎯 Цель: Стать Fullstack-разработчиком и запустить свой крупный сервис.
 
@@ -42,8 +42,8 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| **🏗️ [Название проекта]** | ??????????????. | `HTML` `CSS` |
-| **📱 [Название проекта]** | ??????????????. | `JS` |
+| **🏗️ [Название проекта]** | ??????????????? | `HTML` `CSS` |
+| **📱 [Название проекта]** | ????????????? | `JS` |
 
 ---
 
@@ -69,4 +69,19 @@
 
 | Период | Увлечение | Опыт |
 | :--- | :--- | :--- |
-| **2019 - 2026** | 
+| **2019 - 2026** | **Авиамоделирование** | Строил спортивные планера. Это дало мне инженерное мышление и точность, которые теперь помогают в коде. |
+| **Детство** | **Дзюдо & Хоккей** | Спорт закалил характер и научил работать в команде. |
+
+---
+
+### 📊 Статистика Optimist2608
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Optimist2608&show_icons=true&theme=calm&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Optimist2608&layout=compact&theme=calm&hide_border=true" height="150" />
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1TVThqceb6/giphy.gif" width="80" />
+</div>
