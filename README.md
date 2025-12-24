@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img src="https://i.imgflip.com/afs3dq.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm1ncm1vbW8waWRjNml3ZjUzb25pbXlneDR5cHQybGU1aHIydWZwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kLpDNSRKDFe8eh1aHf/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" />
 
   # 👋 Привет, я Макар
   
