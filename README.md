@@ -95,5 +95,5 @@
 
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BheWNuZW5obWRlbGRycjVlNm9hYm9rMjhiNm1pMnpkbjdxMDFpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Lc1Kn9hImgpx5Re/giphy.gif" width="100%" style="border-radius: 10px;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BheWNuZW5obWRlbGRycjVlNm9hYm9rMjhiNm1pMnpkbjdxMDFpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Lc1Kn9hImgpx5Re/giphy.gif" width="100%" height="220" style="border-radius: 10px;" />
 </div>
