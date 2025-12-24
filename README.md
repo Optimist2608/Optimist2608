@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Заголовок с Вашей Гифкой (Матрица) -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I4cHhoeWRtYzhocTF2d2dseW42c25memRjZjJsaGg3NjI0ZWxuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yvoDVJQsTfHi/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I4cHhoeWRtYzhocTF2d2dseW42c25memRjZjJsaGg3NjI0ZWxuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yvoDVJQsTfHi/giphy.gif" width="100%" height="320" style="object-fit: cover; border-radius: 10px;" />
 
   # 👋 Привет, я Макар Лебедев
   
