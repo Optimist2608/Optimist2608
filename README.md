@@ -1,13 +1,13 @@
 <div align="center">
 
   
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I4cHhoeWRtYzhocTF2d2dseW42c25memRjZjJsaGg3NjI0ZWxuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yvoDVJQsTfHi/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2g1cm8wZjNobWphZ2JuYzZma2xyZWpiOWprdG9odTA3OHB6bXU3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIm624c8nnNbiG0V3g/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" />
 
   # 👋 Привет, я Макар Лебедев
   
   ### 💻 Frontend-разработчик
   
- 
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript;Building+Modern+Websites;Code+is+Art" alt="Typing SVG" />
   </a>
@@ -42,8 +42,8 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| **🏗️ [Название проекта]** | ??????????????? | `HTML` `CSS` |
-| **📱 [Название проекта]** | ????????????? | `JS` |
+| **🏗️ [Название проекта]** | ?????????????? | `HTML` `CSS` |
+| **📱 [Название проекта]** | ?????????????? | `JS` |
 
 ---
 
@@ -82,6 +82,8 @@
 </div>
 
 <br/>
+
+
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVThqceb6/giphy.gif" width="80" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BheWNuZW5obWRlbGRycjVlNm9hYm9rMjhiNm1pMnpkbjdxMDFpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Lc1Kn9hImgpx5Re/giphy.gif" width="100%" style="border-radius: 10px;" />
 </div>
