@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img src="[https://imgflip.com/gif/afs3dq](https://imgflip.com/gif/afs3dq)" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://imgflip.com/gif/afs3dq" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" />
 
   # 👋 Привет, я Макар
   
