@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Заголовок с Гифкой -->
-  <img src="https://media.giphy.com/media/26tn33aiU1jFEOQBc/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I4cHhoeWRtYzhocTF2d2dseW42c25memRjZjJsaGg3NjI0ZWxuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yvoDVJQsTfHi/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" />
+  <!-- Заголовок с Вашей Гифкой (Матрица) -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I4cHhoeWRtYzhocTF2d2dseW42c25memRjZjJsaGg3NjI0ZWxuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1yvoDVJQsTfHi/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 10px;" />
 
   # 👋 Привет, я Макар Лебедев
   
@@ -80,7 +80,7 @@
 ### 📊 Активность на GitHub
 
 <div align="center">
-  <!-- ЗАМЕНИТЕ YOUR_USERNAME НА ВАШ НИКНЕЙМ НИЖЕ -->
+  <!-- ЗАМЕНИТЕ YOUR_USERNAME НА ВАШ НИКНЕЙМ НИЖЕ (В двух местах) -->
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=calm&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=calm&hide_border=true" height="150" />
 </div>
