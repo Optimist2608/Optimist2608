@@ -5,7 +5,7 @@
 
   # 👋 Привет, я Макар
   
-  ### 💻 Frontend-разработчик
+  ### 💻 Fullstack-разработчик
   
   
   <a href="https://git.io/typing-svg">
